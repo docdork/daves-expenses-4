@@ -1,0 +1,7 @@
+{
+  "name": "daves-expenses-4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
